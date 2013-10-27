@@ -11,3 +11,6 @@ Android的demo，目前包括[图片内存缓存Demo](http://www.trinea.cn/?p=70
 
 #####2. android-reverse-trinea.rar
 Android反编译工具，具体可见[Android APK反编译查看源码及资源文件](http://www.trinea.cn/android/android-apk%E5%8F%8D%E7%BC%96%E8%AF%91%E6%9F%A5%E7%9C%8B%E6%BA%90%E7%A0%81%E5%8F%8A%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6/)  
+
+#####3. wordpress-check-new-comment-regularly.apk
+带定时检查新评论功能的wordpress android版
