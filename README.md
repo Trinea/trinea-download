@@ -16,7 +16,7 @@ Android反编译工具，具体可见[Android APK反编译查看源码及资源�
 带定时检查新评论功能的wordpress android版
 
 #####4. *.apk
-Android开源代码Apk
+Android开源代码Apk，Used By https://github.com/Trinea/android-open-project
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Trinea/trineadownload/trend.png)](https://bitdeli.com/free "Bitdeli Badge")  
