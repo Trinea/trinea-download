@@ -19,5 +19,6 @@ Android反编译工具，具体可见[Android APK反编译查看源码及资源�
 Android开源代码Apk
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Trinea/trineadownload/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Trinea/trineadownload/trend.png)](https://bitdeli.com/free "Bitdeli Badge")  
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/48a456559d14c858df21db4fa39057c3 "githalytics.com")](http://githalytics.com/Trinea/trinea-download)
 
