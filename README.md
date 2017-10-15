@@ -1,6 +1,7 @@
 ![Trinea](http://farm8.staticflickr.com/7426/9456847893_053161c7a4_o.png)个人博客  [http://www.trinea.cn/](http://www.trinea.cn/)
 -------------
-**可供下载的文件**  
+**开发效率工具 App 最新版下载地址**：https://play.google.com/store/apps/details?id=cn.trinea.android.developertools  
+
 #### 一、下载方式：
 点击某个具体文件->点击View Raw链接即可，如下图：  
 ![click to download](http://farm6.staticflickr.com/5478/9781392954_95d64c8a72_o.jpg)  
